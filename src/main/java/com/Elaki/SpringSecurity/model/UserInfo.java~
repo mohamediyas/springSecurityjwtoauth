@@ -1,0 +1,4 @@
+package com.Elaki.SpringSecurity.model;
+
+public class UserInfo {
+}
